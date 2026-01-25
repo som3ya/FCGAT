@@ -150,7 +150,7 @@ If you use this code in academic work, please cite:
 @inproceedings{fcgat2023,
   title     = {FCGAT: Interpretable Malware Classification Method using Function Call Graph and Attention Mechanism},
   author    = {Someya, Minami and Otsubo, Yuhei and Otsuka, Akira},
-  booktitle = {Workshop on Binary Analysis Research (BAR)},
+  booktitle = {Proceedings of NDSS Workshop on Binary Analysis Research (BAR2023)},
   year      = {2023}
 }
 ```
