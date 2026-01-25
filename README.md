@@ -1,8 +1,8 @@
 # FCGAT
 
-**FCGAT** is an interpretable malware classification method using **Function Call Graph (FCG)** and an **attention mechanism**.
+**FCGAT****FCGAT** is an interpretable malware classification method using **Function Call Graph (FCG)** and an **attention mechanism**.
 
-This repository is the **public source-code release** for the BAR 2023 paper:
+This repository contains the **public source-code release** for our paper presented at **BAR 2023**, a workshop co-located with **NDSS 2023**:
 
 - *FCGAT: Interpretable Malware Classification Method using Function Call Graph and Attention Mechanism*
   Paper: https://bar2023.github.io/2023papers/5/bar2023-final5.pdf
