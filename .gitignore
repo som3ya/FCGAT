@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.dist/
+build/
+
+# Environments
+.venv/
+venv/
+.env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Data artifacts (DO NOT COMMIT MALWARE)
+data/
+artifacts/
+outputs/
+
+# IDA / reverse engineering artifacts
+*.idb
+*.i64
+*.til
+*.nam
+*.id0
+*.id1
+*.id2
+*.id3
+*.id4
+*.dmp
+
+# Graph exports
+output_fcg/
+output_functiondata/
+
+# Torch
+*.pt

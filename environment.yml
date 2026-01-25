@@ -1,0 +1,21 @@
+name: fcgat
+channels:
+  - pytorch
+  - nvidia
+  - pyg
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - tqdm
+  - scikit-learn
+  - networkx
+  - pydot
+  - gensim
+  - pytorch
+  - pytorch-cuda=11.8  # adjust if needed
+  - pyg
+  - pip
+  - pip:
+      - rich

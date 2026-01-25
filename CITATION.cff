@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: FCGAT
+message: If you use this software, please cite the FCGAT BAR 2023 paper.
+authors:
+- family-names: Someya
+  given-names: Minami
+- family-names: Otsubo
+  given-names: Yuhei
+- family-names: Otsuka
+  given-names: Akira
+version: 0.1.0
+date-released: 2026-01-21
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: 'FCGAT: Interpretable Malware Classification Method using Function Call Graph
+    and Attention Mechanism'
+  authors:
+  - family-names: Someya
+    given-names: Minami
+  - family-names: Otsubo
+    given-names: Yuhei
+  - family-names: Otsuka
+    given-names: Akira
+  year: 2023
+  conference:
+    name: Workshop on Binary Analysis Research (BAR)
+  doi: 10.14722/bar.2023.23005
+  url: https://bar2023.github.io/2023papers/5/bar2023-final5.pdf
