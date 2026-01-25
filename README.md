@@ -75,7 +75,7 @@ python -c "import torch, torch_geometric; print('torch', torch.__version__); pri
 
 ---
 
-## Quickstart (high level)
+## Quickstart
 
 ### 1) Export graphs and function tokens with IDA Pro
 
